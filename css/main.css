@@ -1,1 +1,100 @@
-/* Inserte su codigo aqui */
+
+header {
+	background-image: url(../img/fondosperros.jpg);
+	background-size: cover;
+	height: 655px;
+	color: white;
+	text-align: center;
+	padding-top: 20px;
+
+}
+.container1 li {
+	display: table-cell;
+	list-style: none;
+	padding: 20px;
+	padding-right: 5px;
+	margin-top: 30px;
+	margin-left: 400px;
+	font-size: 14px;
+	text-transform: uppercase;
+
+}
+.container1 a {
+	color: gray;
+	padding: 5px;
+	font-weight: bold;
+	text-decoration: none;
+
+}
+.container2{
+	background-color: gray;
+	padding-top: 30px;
+	color: white;
+}
+.container2 {
+	background-color: black;
+	opacity: 0.5; 
+	height: 150px;
+	margin-top: 10%;
+	text-align: center;
+}
+.text-center {
+	text-align: center;
+	font-weight: bold;
+}
+.container3 {
+	background-color: white;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	height: 500px;
+	color: black;
+	text-align: center;
+	padding-left: 80px;
+	padding-right: 80px;
+}
+.container3 img {
+	padding-top: 20px;
+	padding-bottom: 10px;
+	border-radius: 150px;
+	max-width: 100%;
+}
+img{
+	width: 300px;
+	height: 300px;
+	text-align: center;
+}
+.container3 h3 {
+	color: black;
+	font-weight: bold;
+	text-align: center;
+}
+.container3 p {
+	height: 60px;
+	text-align: justify;
+	color: black;
+	font-weight: lighter;
+	padding:50px;
+	margin-bottom: 50px;
+}
+.footer{
+	background-color:  black;
+	color: gray;
+	height: 30px;
+	padding-top: 5px;
+}
+.leer {
+	margin-top: 10px;
+	text-align: center;
+	margin-bottom: 20px;
+	width: 100px;
+	margin-left: 250px;
+}
+.leer a {
+	background-color: green;
+	letter-spacing: 2px;
+	text-decoration: none;
+	color: white;
+	border-radius: 5px;
+	padding: 10px;
+	display: block; 
+}
